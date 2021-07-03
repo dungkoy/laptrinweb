@@ -15,14 +15,59 @@ p {
 	padding-top: 15px;
 	font-style: normal;
 }
-.index-head-img1{
+.index-head-img{
 	background-image: url(images/thumbnail_image3.jpg);
-	width: 1000px;
-	height: 550px;
+	width: 100vw;
+	height: 800px;
+	background-position: center;
 	background-repeat: no-repeat;
-	background-size: auto;
-	border: 2px solid black;
+	background-size: cover;
 }
+.gallery-head-img{
+	background-image: url(images/thumbnail_image2.jpg);
+	width: 100vw;
+	height: 800px;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.message-head-img{
+	background-image: url(images/thumbnail_image4.jpg);
+	width: 100vw;
+	height: 800px;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.life-head-img{
+	background-image: url(images/thumbnail_image5.jpg);
+	width: 100vw;
+	height: 800px;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.family-head-img{
+	background-image: url(images/japanese-sky.jpg);
+	width: 100vw;
+	height: 800px;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.country-head-img{
+	background-image: url(images/japanese-natu.jpg);
+	width: 100vw;
+	height: 800px;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
 .col-xl-12{
 	color: green;
 	
@@ -31,4 +76,7 @@ p {
 	padding: 40px;
 }
 
-
+.img-item{
+	width: 100%;
+	height: 600px;
+}
