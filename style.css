@@ -16,19 +16,19 @@ p {
 	font-style: normal;
 }
 .index-head-img{
-	background-image: url(images/thumbnail_image3.jpg);
+	background-image: url(images/123.jpg);
 	width: 100vw;
 	height: 800px;
 	background-position: center;
-	background-repeat: no-repeat;
+	background-repeat: repeat-y;
 	background-size: cover;
 }
 .gallery-head-img{
-	background-image: url(images/thumbnail_image2.jpg);
+	background-image: url(images/045hallowen.png);
 	width: 100vw;
-	height: 800px;
+	height: 500px;
 	background-position: center;
-	background-repeat: no-repeat;
+	background-repeat: repeat-y;
 	background-size: cover;
 }
 
@@ -60,7 +60,7 @@ p {
 }
 
 .country-head-img{
-	background-image: url(images/japanese-natu.jpg);
+	background-image: url(images/viet\ nam\ map.jpg);
 	width: 100vw;
 	height: 800px;
 	background-position: center;
